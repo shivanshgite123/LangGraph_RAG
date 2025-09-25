@@ -2,28 +2,6 @@
 
 A sophisticated AI agent system that integrates LangGraph with FastAPI to provide intelligent routing between Retrieval-Augmented Generation (RAG), web search, and direct answering capabilities. This project demonstrates advanced conversational AI with context-aware decision making.
 
-## 📺 Tutorial Series
-
-This repository is part of a comprehensive tutorial series on building intelligent AI agents:
-
-### Part 1: LangGraph RAG Agent Basics
-**[LangGraph RAG Agent Tutorial | Basics to Advanced Multi-Agent AI Chatbot](https://youtu.be/60XDTWhklLA)**
-
-Learn the fundamentals of building a LangGraph RAG agent from scratch, covering:
-- LangGraph basics and workflow design
-- Multi-agent architecture
-- RAG implementation with vector stores
-- Advanced routing and decision making
-
-### Part 2: FastAPI Integration & Production Setup
-**[Integrating LangGraph RAG Agent with FastAPI | Production Setup with Sessions, History, Vector DB](https://youtu.be/t209A887UpY)**
-
-This repository contains the code for Part 2, focusing on:
-- FastAPI integration for production deployment
-- Session management and conversation history
-- Vector database setup and management
-- Document upload and indexing
-- API endpoints and testing
 
 ## 🚀 Features
 
@@ -360,11 +338,3 @@ Check `api/app.log` for detailed application logs and debugging information.
 - Use HTTPS in production environments
 - Regular security updates for dependencies
 
-## 🚀 Performance Optimization
-
-- Use `gpt-4.1-mini` for faster responses
-- Implement caching for frequent queries
-- Optimize vector store queries
-- Monitor memory usage with large document sets
-
-**Happy coding! 🚀** 
